@@ -16,23 +16,17 @@ a higher education in French, Spanish and International Relations. While at the 
 |   -       |Plotly               |  -      |  -          |-
 |    -      |Meteor               |  -      |  -          |-
 |     -     |Handlebars.js        |  -      |  -          |-
+|    -      |WordPress            |   -     |    -        |-
 
+## PROJECTS
 
-## FOUNDERS & CODERS PROJECTS
+#### [Find My Call](projects/fmc.md)
 
-#### [Giant's Shoulder Chat App](https://github.com/FAC7/giantsshoulder)
+#### [How am I doing?](projects/how-am-i-doing.md)
 
-Simple chat app built at a hackathon as a prototype for a startup wanting to connect schools around the world.[Take a look.](https://giants-shoulder.herokuapp.com/)
+#### [Confidant](projects/confidant.md)
 
-#### [How am I doing?](https://github.com/foundersandcoders/How-Am-I-Doing)
-
-A prototype app built at a hackathon designed to help young people with mental health issues own and visualise their data. Built using the D3 library, Plotly, and React.js. [Take a look.](https://howamidoing.herokuapp.com/)
-
-#### [Autotranslate](https://github.com/fourloops/autotranslate)
-A fully tested app that translates words from English, French and German. This was an exercise in using APIs and implementing auto-complete functionality.
-
-#### [Photo.map](https://github.com/sockinit/photo.map)
-A test-driven app that shows all the meetups within a one mile radius of any location clicked on the map. This was aimed at getting familiar with OAuth, templating engines and cookies.
+#### [Fit For the Future](projects/fftf.md)
 
 
 ## WORK EXPERIENCE

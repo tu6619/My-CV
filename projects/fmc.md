@@ -13,6 +13,7 @@ The user working for a company supplied by IPCortex's WebRTC API:
 ###Main Involvement
 * Authentication / Authorisation
 * Database functions / Query strings
+* Frontend design
 
 ###Login Page
 ![](fmc-login.png)
@@ -25,8 +26,10 @@ The user working for a company supplied by IPCortex's WebRTC API:
 ###Dashboard Page (accordion open to reveal audio player)
 ![](fmc-dashboard-call.png)
 
+
 ###Dashboard Page (filtering calls by number)
 ![](fmc-filter.png)
+
 
 ###Technology Stack
 - Hapi.js (Node.js Framework)

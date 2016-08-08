@@ -1,6 +1,6 @@
 #Fit For The Future
 
-Client was unhappy with features and appearance of their existing WordPress site.
+Client - a sustainability charity -  was unhappy with features and appearance of their existing WordPress site.
 
 ###Main Involvement
 * Menu reorganisation and navigation

@@ -46,7 +46,7 @@ a higher education in French, Spanish and International Relations. While at the 
 - Contributed to the __resource-base.__
 
 
-## WORK EXPERIENCE
+## OTHER WORK EXPERIENCE
 
 * 2012 - present  Violinist / Music Producer
 
